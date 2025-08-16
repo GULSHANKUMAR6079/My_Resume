@@ -7,8 +7,8 @@ Here you’ll find my **latest resume (PDF)** along with an overview of my backg
 
 ## 🔗 Quick Links
 - **Resume (PDF):** [Download Here](./resume.pdf)  
-- **LinkedIn:** [linkedin.com/in/Gulshan](https://linkedin.com/in/Gulshan)  
-- **GitHub:** [github.com/Gulshan](https://github.com/Gulshan)  
+- **LinkedIn:** [linkedin.com/in/Gulshan](https://linkedin.com/in/gulshankumar01/)  
+- **GitHub:** [github.com/Gulshan](https://github.com/GULSHANKUMAR6079)  
 - **Email:** gulshankumar02985@gmail.com  
 - **Phone:** +91 8709596674  
 
@@ -41,7 +41,7 @@ Proven ability to uncover insights from large datasets, forecast business outcom
 ---
 
 ### 🔹 Blinkit Sales & Consumer Behavior Analysis  
-*MySQL, Power BI, Excel* – [GitHub](https://github.com/Gulshan)  
+*MySQL, Power BI, Excel* – [GitHub](https://github.com/GULSHANKUMAR6079/Blinkit_Analysis)  
 - Analyzed **9K+ Blinkit sales records**, uncovering **5 key purchase patterns** across **10 cities**.  
 - Built an **8-page Power BI dashboard** with 6 interactive KPIs, reducing reporting time by **60%**.  
 - Designed strategies driving **12% revenue uplift** and **5% increase in repeat customers**.  
@@ -50,7 +50,7 @@ Proven ability to uncover insights from large datasets, forecast business outcom
 ---
 
 ### 🔹 Customer Churn Analysis & Dashboard  
-*MySQL, Power BI* – [GitHub](https://github.com/Gulshan)  
+*MySQL, Power BI* – [GitHub](https://github.com/GULSHANKUMAR6079/Churn_Analysis)  
 - Segmented **6K+ customers** into 3 cohorts (churned, retained, new).  
 - Developed **2 SQL views** + **2-page Power BI dashboard** to track **5 churn KPIs**.  
 - Enabled retention campaigns reducing churn by **15% in 3 months**.  
@@ -58,7 +58,7 @@ Proven ability to uncover insights from large datasets, forecast business outcom
 ---
 
 ### 🔹 Superstore Sales KPI Dashboard  
-*MySQL, Power BI* – [GitHub](https://github.com/Gulshan)  
+*MySQL, Power BI* – [GitHub](https://github.com/GULSHANKUMAR6079/SuperStore_Analysis)  
 - Processed **8K+ Superstore sales records** using SQL joins & aggregates.  
 - Created a **6-metric Power BI dashboard** (profits, shipping delays, discount impacts).  
 - Helped cut shipping delays by **18%** and improved margins by **10%**.  
@@ -89,7 +89,7 @@ Proven ability to uncover insights from large datasets, forecast business outcom
 ## 📬 Contact
 📧 gulshankumar02985@gmail.com  
 📱 +91 8709596674  
-🔗 [LinkedIn](https://linkedin.com/in/Gulshan) | [GitHub](https://github.com/Gulshan)  
+🔗 [LinkedIn](https://linkedin.com/in/gulshankumar01/) | [GitHub](https://github.com/GULSHANKUMAR6079)  
 
 ---
 
