@@ -5,8 +5,7 @@ Here you’ll find my **latest resume (PDF)** along with an overview of my backg
 
 ---
 
-## 🔗 Quick Links
-- **Resume (PDF):** [Download Here](./resume.pdf)  
+## 🔗 Quick Links 
 - **LinkedIn:** [linkedin.com/in/Gulshan](https://linkedin.com/in/gulshankumar01/)  
 - **GitHub:** [github.com/Gulshan](https://github.com/GULSHANKUMAR6079)  
 - **Email:** gulshankumar02985@gmail.com  
@@ -91,6 +90,3 @@ Proven ability to uncover insights from large datasets, forecast business outcom
 📱 +91 8709596674  
 🔗 [LinkedIn](https://linkedin.com/in/gulshankumar01/) | [GitHub](https://github.com/GULSHANKUMAR6079)  
 
----
-
-⭐️ For the latest version of my resume, check [here](./resume.pdf).
